@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # XSentimentAnalyzer
 Real-time sentiment analysis tool that processes live tweets during major events to gauge public opinion.
 =======
